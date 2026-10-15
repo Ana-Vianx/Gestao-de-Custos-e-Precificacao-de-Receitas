@@ -62,8 +62,8 @@ O cálculo ajuda a visualizar os custos envolvidos na produção e a estimar um 
 ## 📸 Prévia do projeto
 
 <p align="center">
-  <img src="preview.png" alt="Prévia do Sistema de Gestão de Custos e Precificação de Receitas" width="800">
-</p>s/previa.png)
+  <img src="previa.jpeg" alt="Prévia do Sistema de Gestão de Custos e Precificação de Receitas" width="800">
+</p>
 
 
 ## 🎯 Objetivo
