@@ -1,1 +1,1 @@
-# Sistema-de-Gest-o-de-Custos-e-Precifica-o-de-Receitas
+Gestao-de-Custos-e-Precificacao-de-Receitas
